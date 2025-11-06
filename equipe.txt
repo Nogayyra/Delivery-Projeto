@@ -1,1 +1,3 @@
-Membro 1 - Arthur Nogueira - Dono do repositório
+Membro 1 - Arthur Nogueira - Dono do Repositório
+Membro 2 - Ana Clara Marques - Implementação de funcionalidades
+Membro 3 - Laura Cardoso - Implementação de tecnologias
