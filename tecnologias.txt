@@ -1,1 +1,5 @@
-
+Tecnologias que serão ultilizadas no desenvolvimento do aplicativo: 
+- HTML
+- CSS
+-BACKEND
+-JAVASCRIPT
